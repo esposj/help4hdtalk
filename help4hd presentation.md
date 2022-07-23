@@ -8,12 +8,17 @@ footer: July 23, 2022 | Help 4 HD HIPE Virtual | A Journey to Finding Tips and T
 [.autoscale: true]
 ## A Talk by Joe Esposito
 - A Caregiver, Techie, and Over Thinker
-- These are all anecdotes!
-- Feel free to reach out!
+- These are all anecdotes
+- Feel free to reach out:
 	- [joe@j-espo.com](mailto:joe@j-espo.com)
 	-  [Facebook](http://facebook.com/esposj)
 
 ^ In this slide, I'll do a quick introduction about me, share and invite folks to reach out and reinforce the fact that this is all trial and error and things that have worked for our house hold.  Our HD loved ones play a critical role in allowing us to help. Caveat empor. 
+
+---
+[.footer:]
+![fit](wedding.jpeg)
+
 
 ## A Quick Introduction
 [.autoscale: true]
@@ -49,9 +54,7 @@ footer: July 23, 2022 | Help 4 HD HIPE Virtual | A Journey to Finding Tips and T
 	- [Samsung Watch](https://www.samsung.com/us/support/answer/ANS00087244/)
 - [Driver Tracking](https://www.kbb.com/car-advice/monitoring-teen-driving/)	
 
-
-
-^ Nora was able to give up driving in 2010.  She stopped working and was approved for disability in May 2011.  For the next 3-4 years she was fairly independent at home.  She would routinely go for multi mile walks including daily trips to the YMCA.  We agreed that me knowing where she was would allow her to keep her independence.  We leveraged the iPhone with location tracking.  It came in handy a few times.  
+^ Nora was able to give up driving in 2010.  She stopped working and was approved for disability in May 2011.  For the next 3-4 years she was fairly independent at home.  She would routinely go for multi mile walks including daily trips to the YMCA. We wanted to augment her independence without destroying her privacy. We agreed that me knowing where she was would allow her to keep her independence.  We leveraged the iPhone with location tracking.  It came in handy a few times.  
 
 ^ We didn't have access to smart watches with fall detection at the time, but today, I'd push for that for sure!.  We also didn't have too man issues with her driving.  She voluntarily gave up driving pretty soon after 2 minor fender benders.
 
@@ -75,21 +78,26 @@ footer: July 23, 2022 | Help 4 HD HIPE Virtual | A Journey to Finding Tips and T
 
 
 ## Mid Stage - Force Multipliers
-- [Spoken](https://www.audible.com) [Word](https://benningtonshow.com) [Media](https://atp.fm)
+- [Spoken](https://www.audible.com) [Word](https://benningtonshow.com) [Media](https://atp.fm) (for me!)
 - [Cameras / Motion Detection](https://smile.amazon.com/Amcrest-Security-Two-Way-4-Megapixel-IP4M-1041B/dp/B095XCGKTF/)
-- [Coud Baby Monitor App](https://cloudbabymonitor.com)
+- [Cloud Baby Monitor App](https://cloudbabymonitor.com)
 - [Call](https://smile.amazon.com/dp/B09SPSK3V6) [Buttons](https://smile.amazon.com/dp/B09WDB3NFY) & ([more options](https://www.the-ambient.com/buyers-guides/best-smart-home-buttons-alexa-homekit-google-smartthings-2527))
 - [Alexa 'Drop In'](https://www.amazon.com/alexa-drop-in-calling-intercom/b?ie=UTF8&node=21393410011)
+- House Cleaners
 
 ^ The first force multiplier is for me!  In the middle stage, the caregiver burden really starts.  Work, household chores, kitchen tasks, increased assistance with ADLs all start to take their time.  I found audiobooks, radio shows, and podcasts to be a lifesaver in allowing me time for entertainment while doing all of these things.  Noise cancelling headphones help block out hours of TV watching for our loved ones.
 
 ^ I was 7 years ahead of the work from home transition that happened for many during Covid.  I went looking for a remote career before it was needed, knowing it may take some time or even a false start.  I got lucky and have been at the same company for the past 9 years.  These tools allowed 
 
+---
+[.footer:]
+![fit](call_buttons.jpeg)
+
 ## Mid Stage - Household Tips
-- Be Flexible! 
-- Things change fast
+- Be Flexible, things change fast!
 - 'Active Sleep' Solutions
 	- [Railings](https://www.amazon.com/gp/product/B000GUFFQS) or [Bumpers](https://www.amazon.com/gp/product/B077H8ZFK6)
+	- Sleep Tracking
 	- Consider a separate bedroom
 - Plan accommodations
 	- wheelchair accessibility
@@ -106,8 +114,23 @@ footer: July 23, 2022 | Help 4 HD HIPE Virtual | A Journey to Finding Tips and T
 
 
 ## Late Stage - Force Multipliers
+- Be Transparent
 - Active Monitoring 
 - [Delivery](https://www.instacart.com/store) [Services](https://www.grubhub.com) (Cheaper then in home care!)
+- [Broda Seating](https://brodaseating.com)
+
+^ I've shared my caregiving journey very publicly at work.  "You let me know if i'm slipping as I probably won't notice"
+^ Groceries and restaurant deliveries give me time back and help me feel less 'stuck' at home.
+^ I *know* she's not going to fall out of the Broda chair and that gives me comfort.
+
+---
+[.footer:]
+![fit](activemonitoring.png)
+
+
+---
+[.footer:]
+![fit](late2.jpeg)
 
 ## Late Stage - Household Tips
 - [Extra](https://www.amazon.com/gp/product/B0881XD6J9/) [Linens](https://www.amazon.com/gp/product/B08DKBYZH8) == Less Laundry
@@ -133,8 +156,19 @@ footer: July 23, 2022 | Help 4 HD HIPE Virtual | A Journey to Finding Tips and T
 - Show the Plate before blending
 - Taste it and say yum!
 - Use [Squeeze Bottles](https://smile.amazon.com/Condiment-OAMCEG-Measurements-Condiments-Dressings/dp/B083LQLVBM/)
-- Pasta doesn't blend well.
+- Pasta doesn't blend well
 - Calorie Boosters
 	- Iced coffee w/ protein powder and heavy cream
 	- powdered potatoes in soups
+	
+---
+[.footer:]
+![fit](food1.png)
 
+---
+[.footer:]
+![fit](food2.png)
+
+---
+[.footer:]
+![fit](food3.png)
